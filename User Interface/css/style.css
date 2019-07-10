@@ -134,13 +134,18 @@ form .button{
    margin-right: 40%;
    
 }
+.center{
+    align-items: center;
+}
 
-
-form .link{
-    float: left;
-    margin:1em;
+.link{
+    display: block;
+    width: 90%;
+    margin-right: 10px;
+    text-align: center;
     background-color: bisque;
 }
+
 form.des{
     margin-left: 20px;
 }
